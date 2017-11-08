@@ -15,7 +15,7 @@
 
  * 카카오톡 플러스친구 API Object
  * AWS Lambda
- * AWS API Gateway 
+ * AWS API Gateway
  * JSON 이용
 
 #### 플러스친구 대화 시작시 Button 객체 활용 코드 일부
