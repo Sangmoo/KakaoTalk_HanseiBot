@@ -5,8 +5,8 @@
  * [카카오톡 플러스친구 관리자센터](https://center-pf.kakao.com/login)에서 플러스 친구 생성
  * [AWS](https://aws.amazon.com/ko/)에서 계정 생성
  * 개발 툴로는 이클립스(Neon Ver.) 사용
- * 이클립스내 추가 툴킷으로 AWS Dev ToolKit 사용
- * simple-JSON 이용
+ * 이클립스 AWS Dev ToolKit 사용
+ * Simple-JSON 이용
 
 
 ### 학교 정보를 얻을 수 있는 편의용으로 키워드형식 챗봇 개발
