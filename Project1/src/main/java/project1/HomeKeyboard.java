@@ -18,8 +18,14 @@ public class HomeKeyboard implements RequestHandler<JSONObject, JSONObject> {
         
         //버튼에 들어갈 텍스트 넣어주기
         jsArr.add("IT학부");
-        jsArr.add("e-class");
-        jsArr.add("도서관");
+        jsArr.add("신학부");
+        jsArr.add("사회과학부");
+        ///////////////////////
+        jsArr.add("국제언어학부");
+        jsArr.add("간호복지학부");
+        jsArr.add("예술학부");
+        //////////////////////
+        jsArr.add("디자인학부");
         jsArr.add("기타 정보");
         
         //home keyboard 설정해주기
