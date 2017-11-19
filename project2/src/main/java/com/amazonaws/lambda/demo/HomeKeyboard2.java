@@ -842,8 +842,6 @@ public class HomeKeyboard2 implements RequestHandler<JSONObject, JSONObject> {
         	// message_button
         	jsMes2.put("message_button", jsAns);
         	jsMes.put("message", jsMes2);
-        	
-            jsMes.put("message", jsAns);
         }
         else if(answer.contains("글로벌")){
         	jsMes2.put("text", "글로벌교육센터입니다.\n"
@@ -854,8 +852,6 @@ public class HomeKeyboard2 implements RequestHandler<JSONObject, JSONObject> {
         	// message_button
         	jsMes2.put("message_button", jsAns);
         	jsMes.put("message", jsMes2);
-        	
-            jsMes.put("message", jsAns);
         }
         //내보낼 JSON인 jsMes에 if절로 만든 상황에 따른 답변을 넣어줍니다
         return jsMes;
