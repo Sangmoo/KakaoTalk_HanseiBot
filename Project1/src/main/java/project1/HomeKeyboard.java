@@ -26,6 +26,7 @@ public class HomeKeyboard implements RequestHandler<JSONObject, JSONObject> {
         jsArr.add("예술학부");
         //////////////////////
         jsArr.add("디자인학부");
+        jsArr.add("행정처");
         jsArr.add("기타 정보");
         
         //home keyboard 설정해주기
