@@ -26,7 +26,7 @@ public class HomeKeyboard2Test {
         
         JSONObject js = new JSONObject();
         
-        js.put("content", "공지사항");
+        js.put("content", "날씨");
         
         input = js;
  
