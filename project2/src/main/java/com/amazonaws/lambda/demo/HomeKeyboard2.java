@@ -280,15 +280,15 @@ public class HomeKeyboard2 implements RequestHandler<JSONObject, JSONObject> {
             jsMes.put("message", jsAns);
         }
         else if(answer.contains("윤수영 교수님")){
-        	jsAns.put("text", "김석우 교수님은 이공관 3층에 위치합니다.\n"+"Tel)031-450-9885");
+        	jsAns.put("text", "윤수영 교수님은 이공관 3층에 위치합니다.\n"+"Tel)031-450-9885");
             jsMes.put("message", jsAns);
         }
         else if(answer.contains("신승중 교수님")){
-        	jsAns.put("text", "김석우 교수님은 이공관 3층에 위치합니다.\n"+"Tel)010-3664-0666");
+        	jsAns.put("text", "신승중 교수님은 이공관 3층에 위치합니다.\n"+"Tel)010-3664-0666");
             jsMes.put("message", jsAns);
         }
         else if(answer.contains("홍완표 교수님")){
-        	jsAns.put("text", "김석우 교수님은 이공관 3층에 위치합니다.\n"+"Tel)031-450-5340");
+        	jsAns.put("text", "홍완표 교수님은 이공관 3층에 위치합니다.\n"+"Tel)031-450-5340");
             jsMes.put("message", jsAns);
         }
         // ICT 교육목표
