@@ -13,6 +13,7 @@
  * AWS Lambda
  * AWS API Gateway
  * JSON 이용
+ * OpenWeatherMap API로 날씨 이용
 
 ### AWS Service 이용
 
