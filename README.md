@@ -2,7 +2,7 @@
 
  * 개발 툴로는 이클립스(Neon Ver.) 사용
  * 이클립스 AWS Dev ToolKit 사용
- * Simple-JSON 이용
+ * JSON 이용
 
 
 ### 학교 정보를 얻을 수 있는 편의용으로 키워드형식 챗봇 개발
@@ -21,6 +21,7 @@
  * 대화 시작시로 만들었던 프로젝트는 keyboard 리소스로 이용, API Gateway에서 리소스 이름을 keyboard로 생성, 메소드는 Get타입으로 생성
  * 대화 도중시로 만들었던 프로젝트는 message 리소스로 이용, API Gateway에서 리소스 이름을 message로 생성, 메소드 타입은 POST로 생성
  * message 리소스의 메소드 생성 완료 후 API 배포, 배포된 웹 URL을 이용하여 플러스친구 스마트채팅 API에서 이용
+ 
 
 ##### *완료 모습*
  
