@@ -1,7 +1,7 @@
 # KakaoTalk 자동 API - JAVA + AWS
 
- * 개발 툴로는 이클립스(Neon Ver.) 사용
- * 이클립스 AWS Dev ToolKit 사용
+ * 개발 툴로는 이클립스 사용
+ * 이클립스  플러그인 AWS Dev ToolKit 사용
  * JSON 이용
  * 카카오톡 플러스친구 서비스 V1 사용
 
