@@ -1,7 +1,7 @@
 # KakaoTalk 자동 API - JAVA + AWS
 
  * 개발 툴로는 이클립스(Neon Ver.) 사용
- * 이클립스  플러그인 AWS Dev ToolKit 사용
+ * 이클립스 플러그인 AWS Dev ToolKit 사용
  * JSON 이용
  * 카카오톡 플러스친구 서비스 V1 사용
  * AWS Free Tier
@@ -13,7 +13,7 @@
  * 카카오톡 플러스친구 API
  * AWS Lambda
  * AWS API Gateway
- * OpenWeatherMap API로 날씨 이용
+ * OpenWeatherMap API로 날씨 이용 - 경도, 위도 설정
 
 ### AWS Service 이용
 
