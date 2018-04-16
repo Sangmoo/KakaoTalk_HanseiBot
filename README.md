@@ -4,7 +4,7 @@
  * 플러그인 AWS Dev ToolKit 사용
  * JSON 이용
  * 카카오톡 플러스친구 API사용
- * AWS Free Tier -
+ * AWS
 
 ### 학교 정보를 얻을 수 있는 편의용으로 키워드형식 챗봇 개발
 
