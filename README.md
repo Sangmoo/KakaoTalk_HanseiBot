@@ -1,9 +1,9 @@
 # KakaoTalk 자동 API - JAVA + AWS
 
  * 이클립스(Neon Ver.) 사용
- * 플러그인 AWS Dev ToolKit 사용
+ * AWS Dev ToolKit
  * JSON 이용
- * 카카오톡 플러스친구 API사용
+ * 카카오톡 플러스친구 API 사용
  * AWS S3, IAM Role, Lambda services
 
 ### 학교 정보를 얻을 수 있는 편의용으로 키워드형식 챗봇 개발
