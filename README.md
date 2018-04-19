@@ -1,4 +1,4 @@
-# KakaoTalk 자동 API - JAVA + AWS
+# KakaoTalk API - JAVA + AWS
 
  * 이클립스(Neon Ver.) 사용
  * AWS Dev ToolKit
@@ -17,7 +17,7 @@
 
 ### AWS Service 이용
 
- * 코드 작성 완료 후, 두 프로젝트 다 각각 AWS Lambda에 Upload
+ * AWS Lambda Function Upload
  * Lambda 서비스로 24시간 가능하게 클라우드 이용
  * 대화 시작시로 만들었던 프로젝트는 keyboard 리소스로 이용, API Gateway에서 리소스 이름을 keyboard로 생성, 메소드는 Get타입으로 생성
  * 대화 도중시로 만들었던 프로젝트는 message 리소스로 이용, API Gateway에서 리소스 이름을 message로 생성, 메소드 타입은 POST로 생성
