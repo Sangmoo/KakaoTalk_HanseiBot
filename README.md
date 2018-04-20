@@ -28,3 +28,8 @@
  ##### *완료 모습*
  
  ![완료모습](http://img1.daumcdn.net/thumb/R1920x0/?fname=http%3A%2F%2Fcfile28.uf.tistory.com%2Fimage%2F9955083359FB3F822F0054)
+ 
+ 
+ ##### *수정 된 모습*
+ 
+ ![수정](https://i.imgur.com/MnH0L85.jpg)
