@@ -4,7 +4,7 @@
  * AWS Dev ToolKit
  * JSON
  * KakaoTalk PlusFriend API
- * AWS S3, IAM Role, Lambda services
+ * AWS S3, IAM Role, Lambda, API Gateway
 
 ### Chatbot get Informations
 
