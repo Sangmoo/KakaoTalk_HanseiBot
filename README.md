@@ -3,12 +3,10 @@
  * Use Eclipse(Neon Ver.)
  * AWS Dev ToolKit
  * JSON
- * KakaoTalk PlusFriend API
+ * [KakaoTalk REST API](https://github.com/plusfriend/auto_reply)
  * AWS S3, IAM Role, Lambda, API Gateway
 
 ### Chatbot get Informations
-
-Use [KakaoTalk REST API](https://github.com/plusfriend/auto_reply)
 
  * AWS Lambda
  * AWS API Gateway
