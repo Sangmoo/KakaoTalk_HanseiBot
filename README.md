@@ -10,7 +10,7 @@
 ### Use ChatBot
 
  * [Home](http://pf.kakao.com/_FNAwxl)
- * [Chat](http://pf.kakao.com/_FNAwxl/chat)
+ * [Start Chat](http://pf.kakao.com/_FNAwxl/chat)
 
 ### Use AWS Service
 
