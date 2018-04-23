@@ -5,12 +5,12 @@
  * JSON
  * [KakaoTalk REST API](https://github.com/plusfriend/auto_reply)
  * AWS S3, IAM Role, Lambda, API Gateway
-
-### Chatbot get Informations
-
- * AWS Lambda
- * AWS API Gateway
  * OpenWeatherMap API - set longitude, latitude
+
+### Use ChatBot
+
+ * [Home](http://pf.kakao.com/_FNAwxl)
+ * [Chat](http://pf.kakao.com/_FNAwxl/chat)
 
 ### Use AWS Service
 
