@@ -1,6 +1,6 @@
 # KakaoTalk API - JAVA + AWS
 
- * Use Eclipse(Neon Ver.)
+ * Use Eclipse([Neon Ver.](http://www.eclipse.org/neon/))
  * AWS Dev ToolKit
  * JSON
  * [KakaoTalk REST API](https://github.com/plusfriend/auto_reply)
