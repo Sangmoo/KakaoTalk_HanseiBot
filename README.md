@@ -14,15 +14,15 @@
 
 ### Use AWS Service
 
- * AWS Lambda Function Upload
  * Use Lambda Serverless
  * Resource - Keyboard -> Method - GET
  * Resource - Message -> Method - POST
  * Invoke Lambda from API Gateway
  
- ##### *Finish v1*
+ ##### *Use QR code*
  ![Invoke QR code](https://i.imgur.com/lQhJTwF.png)
  
+ ##### *Finish v1*
  ![finish](http://img1.daumcdn.net/thumb/R1920x0/?fname=http%3A%2F%2Fcfile28.uf.tistory.com%2Fimage%2F9955083359FB3F822F0054)
  
  
