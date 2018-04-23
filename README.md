@@ -5,7 +5,7 @@
  * JSON
  * [KakaoTalk REST API](https://github.com/plusfriend/auto_reply)
  * AWS S3, IAM Role, Lambda, API Gateway
- * OpenWeatherMap API - set longitude, latitude
+ * [OpenWeatherMap API](https://openweathermap.org/api) - set longitude, latitude
 
 ### Use ChatBot
 
