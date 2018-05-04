@@ -14,7 +14,7 @@
 
 ### Use AWS Service
 
- * Use Lambda Serverless
+ * Use [Lambda Serverless](https://aws.amazon.com/ko/lambda/)
  * Resource - [Keyboard](https://github.com/Sangmoo/KakaoTalk_JAVA_AWS/blob/master/Home_Keyboard/src/main/java/home_keyboard/HomeKeyboard.java) -> Method - GET
  * Resource - [Message](https://github.com/Sangmoo/KakaoTalk_JAVA_AWS/blob/master/Home_Message/src/main/java/home_message/HomeMessage.java) -> Method - POST
  * Invoke Lambda from API Gateway
