@@ -1,5 +1,6 @@
 # KakaoTalk API - JAVA + AWS
 
+ ![MIT License](https://camo.githubusercontent.com/39fd9c924c31184287640a9106b7463462bccdc3/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f6c2f6d61726b646f776e2d746973746f72792e737667)
  * Use [Eclipse(Neon Ver.)](http://www.eclipse.org/neon/)
  * [AWS Dev ToolKit](https://marketplace.eclipse.org/content/aws-toolkit-eclipse)
  * [JSON](https://code.google.com/archive/p/json-simple/downloads)
