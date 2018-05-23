@@ -15,7 +15,6 @@ public class HomeKeyboard implements RequestHandler<JSONObject, JSONObject> {
         JSONObject js = new JSONObject();
         JSONArray jsArr = new JSONArray();
         
-        
         //버튼에 들어갈 텍스트 넣어주기
         jsArr.add("공지사항");
         jsArr.add("e-class");
@@ -27,7 +26,6 @@ public class HomeKeyboard implements RequestHandler<JSONObject, JSONObject> {
         //home keyboard 설정해주기
         js.put("type", "buttons");
         js.put("buttons", jsArr);
-        
         
         //완성된 JSON 내보내기
         return js;
