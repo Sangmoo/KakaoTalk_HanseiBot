@@ -121,7 +121,7 @@ public class HomeMessage implements RequestHandler<JSONObject, JSONObject> {
                 //OpenAPI call하는 URL
                 String urlstr = "http://api.openweathermap.org/data/2.5/weather?"
                             + "lat="+lat+"&lon="+lon
-                            +"&appid=36c93a43609f3a714b4d043c5fce7340";
+                            +"&appid=your_api_id";
                 URL url = new URL(urlstr);
                 BufferedReader bf;
                 String line;
